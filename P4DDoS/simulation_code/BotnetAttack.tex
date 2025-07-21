@@ -1,0 +1,86 @@
+% This file was created with tikzplotlib v0.10.1.
+\begin{tikzpicture}
+
+\definecolor{crimson2143940}{RGB}{214,39,40}
+\definecolor{darkgray176}{RGB}{176,176,176}
+\definecolor{darkorange25512714}{RGB}{255,127,14}
+\definecolor{forestgreen4416044}{RGB}{44,160,44}
+\definecolor{lightgray204}{RGB}{204,204,204}
+\definecolor{mediumpurple148103189}{RGB}{148,103,189}
+\definecolor{steelblue31119180}{RGB}{31,119,180}
+
+\begin{axis}[
+legend cell align={left},
+legend columns=2,
+legend style={
+  fill opacity=0.8,
+  draw opacity=1,
+  text opacity=1,
+  at={(0.91,0.5)},
+  anchor=east,
+  draw=lightgray204
+},
+tick align=outside,
+tick pos=left,
+x grid style={darkgray176},
+xlabel={Attack traffic proportion (\%)},
+xmin=3.75, xmax=31.25,
+xtick style={color=black},
+y grid style={darkgray176},
+ylabel={Detection accuracy (\%)},
+ymin=3.4, ymax=104.6,
+ytick style={color=black}
+]
+\addplot [semithick, steelblue31119180, mark=*, mark size=3, mark options={solid,fill=white,draw=red}]
+table {%
+5 40
+10 92
+15 100
+20 100
+25 100
+30 100
+};
+\addlegendentry{P4DDoS}
+\addplot [semithick, darkorange25512714, mark=x, mark size=3, mark options={solid,fill=white,draw=red}]
+table {%
+5 8
+10 10
+15 10
+20 10
+25 8
+30 10
+};
+\addlegendentry{SOTA_DDoS (k=3.5)}
+\addplot [semithick, forestgreen4416044, mark=triangle*, mark size=3, mark options={solid,fill=white,draw=red}]
+table {%
+5 12
+10 14
+15 12
+20 12
+25 12
+30 14
+};
+\addlegendentry{SOTA_DDoS (k=2.5)}
+\addplot [semithick, crimson2143940, mark=asterisk, mark size=3, mark options={solid,fill=white,draw=red}]
+table {%
+5 18
+10 20
+15 20
+20 20
+25 18
+30 20
+};
+\addlegendentry{SOTA_DDoS (k=1.5)}
+\addplot [semithick, mediumpurple148103189, mark=+, mark size=3, mark options={solid,fill=white,draw=red}]
+table {%
+5 34
+10 34
+15 36
+20 36
+25 34
+30 38
+};
+\addlegendentry{SOTA_DDoS (k=0.5)}
+\end{axis}
+
+\end{tikzpicture}
