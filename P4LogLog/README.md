@@ -68,3 +68,4 @@ or
 
  Register `hash_register[0]` represents the value in LogLog register of last incoming packet, and  `hash_register[1]` is the index in LogLog register. `hash_register[2]` is the queries cardinality from LogLog register.
 
+Lấy giá trị hash_register[2] để thay vào n của P4NEntropy
