@@ -1,0 +1,45 @@
+bash:
+cd /home/p4/P4LogLog
+./p4app run p4loglog.p4app
+
+
+
+docker:
+docker cp /home/p4/anon-Booter5.pcap hh:/root/anon-Booter5.pcap
+docker exec -it hh bash
+apt update && apt install -y tcpreplay
+tcprewrite \
+  --infile=/root/anon-Booter5.pcap \
+  --outfile=/root/booter5_to_h1.pcap \
+  --dstipmap=0.0.0.0/0:10.0.1.1
+
+
+
+cd /home/p4/P4LogLog/p4loglog.p4app
+while true; do \
+  echo "==== $(date '+%Y-%m-%d %H:%M:%S') ====" >> /home/p4/P4LogLog/p4loglog.p4app/registers_log.txt; \
+  /home/p4/P4LogLog/p4loglog.p4app/read_registers1.sh >> /home/p4/P4LogLog/p4loglog.p4app/registers_log.txt; \
+  echo -e "\n" >> /home/p4/P4LogLog/p4loglog.p4app/registers_log.txt; \
+  sleep 0.5; \
+done
+
+
+mininet:
+h1 tcpdump -i h1-eth0 -w /tmp/h1_capture.pcap &
+h2 ping 10.0.1.1 -i 0.1 > /tmp/pinglog_h2.txt &
+h3 ping 10.0.1.1 -i 0.1 > /tmp/pinglog_h3.txt &
+h2 tcpreplay --loop=100 --topspeed -i h2-eth0 /root/booter5_to_h1.pcap &
+h3 tcpreplay --loop=100 --topspeed -i h3-eth0 /root/booter5_to_h1.pcap &
+h2 pkill ping
+h3 pkill ping
+h2 cat pinglog_h2.txt | tail -n 20
+h3 cat pinglog_h3.txt | tail -n 20
+
+
+
+
+docker cp hh:/tmp/pinglog_h2.txt /home/p4/P4LogLog/pinglog_h2.txt
+docker cp hh:/tmp/pinglog_h3.txt /home/p4/P4LogLog/pinglog_h3.txt
+docker cp hh:/tmp/h1_capture.pcap /home/p4/P4LogLog/h1_capture.pcap
+
+
