@@ -73,6 +73,8 @@ and
 
  Register `S` is total number of packets
 
- In register `finalResults`, `finalResults[0]` is $log_2{Sum}$, `finalResults[1]` is $log_2{S}$, `finalResults[2]` is $2^{log_2{Sum}-log_2{S}}$,  `finalResults[3]` is the Entropy estimation, and `finalResults[4]` is the final normalized entropy estimation. All results in this register are  amplified $2^{10}$ times 
+ In register `finalResults`, `finalResults[0]` is $log_2{Sum}$, `finalResults[1]` is $log_2{S}$, `finalResults[2]` is $2^{log_2{Sum}-log_2{S}}$,  
+ `finalResults[3]` is the Entropy estimation, and `finalResults[4]` is the final normalized entropy estimation. All results in this register are  amplified $2^{10}$ times 
 
+Lấy giá trị finalResults[4] để thay vào Hnorm trong P4DDoS, lấy ở cả 3 trường hợp: Ping bình thường, Nghi ngờ tấn công DDoS và Xác nhận bị tấn công DDoS
 
