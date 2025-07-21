@@ -1,0 +1,5200 @@
+==== 2025-07-14 04:27:06 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:07 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:08 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:09 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:10 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:11 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:12 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:13 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:14 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:14 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:15 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:16 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:17 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:18 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 2048
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:19 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:20 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:21 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:22 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:23 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 5
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 1048576
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2090905
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:24 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 344
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 1024
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 1048576
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 1048566
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:25 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 184
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 1024
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 1048576
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 1048566
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:26 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 2373
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 1048576
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 716092
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:28 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 2029
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 1048566
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:29 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 404
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 1088661
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:31 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 148
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 1024
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:33 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 392
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 1048576
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:34 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 203
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:36 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 594
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 1048566
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:37 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 72
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 1048576
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 1048566
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:39 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 1216
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 1024
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 1048576
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:40 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 1067
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:41 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 1802
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 1083325
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 920773
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:42 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 507
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:44 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 138
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 1048566
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:45 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 1987
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 1024
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 2090915
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:46 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 495
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:47 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 269
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 1024
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:49 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 669
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 1024
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:50 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 20
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:51 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 256
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:52 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 280
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 1024
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:53 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 4697
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 1024
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 1048576
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 1048566
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:55 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 314
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 1119856
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:56 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 1071
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:57 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 1282
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:27:58 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 870
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 1048576
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:00 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 2552
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 1024
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 274156
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:01 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 234
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 1954713
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:02 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 2263
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 1048566
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:04 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 964
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:05 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 381
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:06 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 4073
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:07 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 2055
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 1048576
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:08 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 1678
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:10 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 2527
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 1024
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:11 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 614
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2090905
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:12 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 1657
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:13 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 959
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 1024
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:14 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 3708
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:16 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 1733
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:17 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 31
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 1048576
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:18 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 910
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:19 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 307
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2019625
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:20 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 2026
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 1048566
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:22 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 69
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 1024
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 1048576
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2090905
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:23 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 1276
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 1048566
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:24 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 336
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 1193799
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:25 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 1841
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 1024
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:27 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 682
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 1024
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:28 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 1452
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 1024
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 536762
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:30 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 216
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 1024
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 1048566
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:31 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 87
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 1048566
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:32 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 397
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:33 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 704
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 1048576
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:35 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 605
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 1048576
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 1048566
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:36 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 1991
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 1024
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:38 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 439
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:39 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 1499
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 1024
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2090905
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:40 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 338
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 1048576
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:41 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 84
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 1024
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:43 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 1411
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 1305174
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:44 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 756
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 1996469
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:45 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 135
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 673085
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 1048566
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:47 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 969
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 549226
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:48 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 2257
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 2029436
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 1048566
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:50 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 2151
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 1048576
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:51 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 627
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 1048566
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:52 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 336
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 1024
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 1048576
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 1048566
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:54 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 335
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 2079332
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:55 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 315
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 1024
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:57 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 28
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:28:58 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 4805
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 1024
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:00 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 970
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:01 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 298
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:02 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 689
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 2044583
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 1048566
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:03 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 1927
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 524288
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 524278
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:05 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 128
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 1923407
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 1048566
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:06 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 1038
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 1
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 512
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 1048576
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2090905
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:07 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:08 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:09 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:10 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:10 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:11 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:12 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:13 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:14 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:15 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:16 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:17 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:18 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 2048
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:19 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:19 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:20 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:21 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:22 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:23 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:24 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:25 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:26 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:27 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:28 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:28 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:29 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2038
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:30 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:31 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:32 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:33 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:34 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
+==== 2025-07-14 04:29:35 ====
+Switch 10.0.1.1
+===== Displaying statusReg contents =====
+
+[pkt_counter]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[0]= 0
+RuntimeCmd: 
+
+[alarm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[1]= 0
+RuntimeCmd: 
+
+[Hnorm]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[2]= 2048
+RuntimeCmd: 
+
+[ewma]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[3]= 0
+RuntimeCmd: 
+
+[threshold]
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: statusReg[4]= 2048
+RuntimeCmd: 
+
+
