@@ -1,0 +1,2179 @@
+==== 2025-07-13 23:55:43 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 0, 0, 0
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:55:44 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 0, 0, 0
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:55:45 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 0, 0, 0
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:55:47 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 0, 0, 0
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:55:48 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 0, 0, 0
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:55:49 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 0, 0, 0
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:55:50 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 0, 0, 0
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:55:51 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 0, 0, 0
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:55:52 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 0, 0, 0
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:55:53 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 0, 0, 0
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:55:54 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 3, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:55:55 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 3, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:55:56 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 3, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:55:57 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 3, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:55:58 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 3, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:00 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 3, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:01 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 3, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:02 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 3, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:03 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 3, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:04 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 3, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:05 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 3, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:06 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 3, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:07 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 3, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:08 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 3, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:09 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 3, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:10 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:12 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:13 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:15 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:17 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:19 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:21 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:23 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:24 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:26 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:27 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:29 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:30 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:32 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:34 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:36 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:38 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:39 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:41 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:42 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:44 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:45 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:47 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:49 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:50 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:52 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:54 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:56 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:58 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:56:59 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:57:01 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:57:03 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:57:04 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:57:06 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:57:07 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:57:09 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:57:10 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:57:12 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:57:14 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:57:16 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:57:18 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:57:20 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:57:21 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:57:23 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:57:25 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:57:27 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:57:29 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:57:31 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:57:33 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:57:34 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:57:36 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:57:38 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:57:39 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:57:42 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:57:44 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:57:45 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:57:47 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:57:49 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:57:51 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:57:52 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:57:54 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:57:56 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:57:57 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:57:59 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:58:01 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:58:03 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:58:04 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:58:06 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:58:07 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:58:09 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:58:10 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:58:12 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:58:14 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:58:16 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:58:18 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:58:20 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:58:21 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:58:23 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:58:24 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:58:26 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:58:27 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:58:29 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:58:30 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:58:32 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:58:34 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:58:35 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:58:37 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:58:39 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:58:40 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:58:42 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:58:44 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:58:46 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:58:48 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:58:50 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:58:51 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+==== 2025-07-13 23:58:53 ====
+Switch 10.0.1.1
+displaying hash_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hash_register= 2, 4, 7
+RuntimeCmd: 
+
+displaying hll_register
+Obtaining JSON from switch...
+Done
+Control utility for runtime P4 table manipulation
+RuntimeCmd: hll_register= 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+RuntimeCmd: 
+
+
+
+
