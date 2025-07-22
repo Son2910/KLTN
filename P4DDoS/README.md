@@ -64,11 +64,12 @@ or
     ./read_registers2.sh
     ./read_registers3.sh
    ```
- 
- Register `statusReg[4]` is threshold for normalized entropy
-
+ Register `statusReg[0]` is the current packet_counter (pkt_counter)
+ Register `statusReg[1]` is the alarm of the DDoS dectection
+ Register `statusReg[2]` is the normalized entropy (Hnorm)
  Register `statusReg[3]` is the current expoenential weighter moving average of normalized entropy.
-
+ Register `statusReg[4]` is threshold for normalized entropy
+ 
  Note that all values are amplified 1024 times
 
 DDoS pcap files
