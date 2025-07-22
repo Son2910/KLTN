@@ -65,9 +65,9 @@ or
     ./read_registers3.sh
    ```
  
- Register `thresholdReg[0]` is threshold for normalized entropy
+ Register `statusReg[4]` is threshold for normalized entropy
 
- Register `ewmaReg[0]` is the current expoenential weighter moving average of normalized entropy.
+ Register `statusReg[3]` is the current expoenential weighter moving average of normalized entropy.
 
  Note that all values are amplified 1024 times
 
