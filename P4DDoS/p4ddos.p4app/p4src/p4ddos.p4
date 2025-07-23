@@ -112,9 +112,9 @@ apply {
         // EWMA cập nhật từ Hnorm mới nhất
         if (ewma > 0) {
             // ewma = alpha * Hnorm + (1-alpha)*ewma
-            // alpha = 0.3, nhân 1024:
-            //   ewma = 307*Hnorm + 891*(ewma/1024)
-            ewma = (307 * Hnorm + 891 * (ewma / 1024));
+            // alpha = 0.13, nhân 1024:
+            //   ewma = 133*Hnorm + 891*(ewma/1024)
+            ewma = (133 * Hnorm + 891 * (ewma / 1024));
         } else {
             ewma = Hnorm;
         }
